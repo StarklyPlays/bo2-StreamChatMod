@@ -8,6 +8,7 @@ Place the stream_mod.gsc file into your bo2 scripts folder that is located here:
 
 Step 2
 Then when bo2 is running go to plutoniums console and paste the following
+```
 bind H "say removepoint" 
 bind L "say noammo"
 bind J "say removebox" 
@@ -32,7 +33,7 @@ bind 6 "say instakill"
 bind 7 "say maths"
 bind 8 "say spawndrop"
 bind 9 "say giveperk"
-
+```
 step 3 
 Setup your commands for cloudbot (in the future ill add support for other bots)
 
