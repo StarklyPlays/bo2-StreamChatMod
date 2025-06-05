@@ -35,7 +35,7 @@ bind 8 "say spawndrop"
 bind 9 "say giveperk"
 ```
 step 3 
-Setup your commands for cloudbot (in the future ill add support for other bots)
+Setup your commands for cloudbot (in the future ill add support for other bots) make sure to copy the commands in step 2 both in command and response REMEBER TO ADD THE -!- before the command name
 
 ![image](https://github.com/user-attachments/assets/6fea01f7-bec3-4827-8d53-bd750afcb524)
 
