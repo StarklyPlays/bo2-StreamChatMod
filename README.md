@@ -48,3 +48,5 @@ Run the chat_reader.exe and input your stream ID which is shown below:
 ![image](https://github.com/user-attachments/assets/8d34a6c4-84fe-49d6-97d4-b60727b22301)
 
 And you are done!
+
+To stop the chat reader jsut press the b key (make sure to not press this key if you dont want to stop the program) and then you need to close the windows (right click delete or press x on the terminal)
